@@ -22,7 +22,6 @@ At the end `done` signal is generated and the final result is stored in register
 
 <h3> Timing Diagram </h3>
 
-![](multiplier_timing.png)
 
 
 <b>To load the program in EDA Playground [click here](https://www.edaplayground.com/x/drS7).</b>
