@@ -21,6 +21,7 @@ The 16-bit register P is added with content of register P and register A and the
 At the end `done` signal is generated and the final result is stored in register P.
 
 <h3> Timing Diagram </h3>
+
 ![](multiplier_timing.png)
 
 
